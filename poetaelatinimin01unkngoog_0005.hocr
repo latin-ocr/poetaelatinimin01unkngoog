@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poetaelatinimin01unkngoog_0005.png"; bbox 0 0 2996 4685; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 759 1887 2357 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 759 1887 2357 2022">
+     <span class='ocr_line' id='line_1_1' title="bbox 759 1887 2357 2022; baseline 0.001 -68"><span class='ocrx_word' id='word_1_1' title='bbox 759 1887 1380 2022; x_wconf 43' lang='lat' dir='ltr'>EXCUDEB‘AT</span> <span class='ocrx_word' id='word_1_2' title='bbox 1430 1888 1936 1957; x_wconf 87' lang='lat' dir='ltr'><strong>FIRMINUS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1986 1889 2357 1970; x_wconf 88' lang='lat' dir='ltr'><strong>DIDOT,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 538 2017 2568 2140">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 538 2017 2568 2140">
+     <span class='ocr_line' id='line_1_2' title="bbox 538 2017 2568 2140; baseline 0.001 -37"><span class='ocrx_word' id='word_1_4' title='bbox 538 2057 742 2105; x_wconf 82' lang='lat' dir='ltr'>REGIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 793 2060 877 2104; x_wconf 84' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_6' title='bbox 929 2017 1391 2140; x_wconf 58' lang='grc' dir='ltr'>ῧΑῑῶῙᾲΔΗΰΜ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1441 2059 1973 2109; x_wconf 74' lang='grc' dir='ltr'>ΑΟΑὓΕΜῙΔΒῦΜ</span> <span class='ocrx_word' id='word_1_8' title='bbox 2014 2043 2568 2107; x_wconf 76' lang='lat' dir='ltr'><strong>&#39;TYPOGRAPHUS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
